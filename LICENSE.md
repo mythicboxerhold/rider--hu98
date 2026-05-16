@@ -1,4 +1,4 @@
-# 
+# smart JetBrains Rider for PC | JetBrains Rider for Windows Script | code-completion + code-navigation offers the most advanced JetBrains Rider for PC | JetBrains Rider for Windows
 
 
 
